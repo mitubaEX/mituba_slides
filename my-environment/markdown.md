@@ -53,7 +53,7 @@ class: center, middle
 
 class: center, middle
 
-![image](./sl.png)
+![image](https://www.tecmint.com/wp-content/uploads/2013/05/sl.png)
 
 ---
 
@@ -101,7 +101,7 @@ class: center, middle
 
 class: center, middle
 
-![image](./ide-platformio-vim.png)
+![image](http://docs.platformio.org/en/latest/_images/ide-platformio-vim.png)
 
 ---
 
@@ -143,7 +143,7 @@ class: center, middle
 
 class: center, middle
 
-![image](./DiCOhOzU0AAqb_a.jpg)
+background-image: url(https://pbs.twimg.com/media/DiCOhOzU0AAqb_a.jpg)
 
 ---
 
